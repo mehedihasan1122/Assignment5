@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.banner {
+    height: 400px;
+}
+
+header {
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+}
+
+.card img {
+    height: 250px;
+}
+
+.aside-card-top {
+    height: 394px;
+    background-color: black;
+}
+
+input {
+    width: 100%;
+}
